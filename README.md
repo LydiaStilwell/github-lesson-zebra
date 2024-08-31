@@ -1,0 +1,1 @@
+![git-status](https://github.com/LydiaStilwell/github-lesson-zebra/blob/main/images/git%20status.png)
